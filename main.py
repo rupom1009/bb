@@ -38,7 +38,7 @@ headers = {
 }
 
 user_id = '5203820046'#telegram user ID
-taps = '1000' #amount of taps
+taps = '3000' #amount of taps
 def bbq_tap():
     data = {
         'id_user':user_id,
