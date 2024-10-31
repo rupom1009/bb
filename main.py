@@ -32,13 +32,13 @@ headers = {
     'sec-fetch-dest': 'empty',
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-site',
-    'use-agen': 'query_id=AAEO_is2AgAAAA7-KzZ_meMV&user=%7B%22id%22%3A5203820046%2C%22first_name%22%3A%22Ymx%20haxor%F0%9F%8D%85%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730348153&hash=c34c769e8c32743e4fd50d79a35ae46874d3a0d2dd025364b2bf3bfa1f8560e5',
+    'use-agen': 'query_id=AAFRLpVMAgAAAFEulUxB1g2X&user=%7B%22id%22%3A5579812433%2C%22first_name%22%3A%22%E2%95%BF%F0%9D%91%AE%F0%9D%92%89%F0%9D%92%90%F0%9D%92%94%F0%9D%92%95%22%2C%22last_name%22%3A%22%F0%9D%91%B4%F0%9D%92%82%F0%9D%92%8F%E2%95%BD%22%2C%22username%22%3A%22GH0ST_MAN%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730351363&hash=d48368582c4357702fc5b205cb775f8d559d43600b77e8ce53684bf74b7652cc',
     'user-agent': 'add your custom header here ',
     'x-requested-with': 'org.telegram.messenger',
 }
 
-user_id = '5203820046'#telegram user ID
-taps = '7000' #amount of taps
+user_id = '5579812433'#telegram user ID
+taps = '64000' #amount of taps
 def bbq_tap():
     data = {
         'id_user':user_id,
