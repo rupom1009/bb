@@ -32,13 +32,13 @@ headers = {
     'sec-fetch-dest': 'empty',
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-site',
-    'use-agen': 'query_id=AAEA7AAAAAAA_YXvLvmCa&user=%7B%22id%22%%2C%22first_name%22%3A%22%E3%85%A4%22%2C%22last_name%22%3A%22%E2%81%AA%E2%81%AC%22%2C%22username%22%3A%%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730304409&hash=b5b7e6f18438a8dfd1ee61e50e80871638d137f091frj439frj775d07664e7b4f6',
+    'use-agen': 'query_id=AAEO_is2AgAAAA7-KzZ_meMV&user=%7B%22id%22%3A5203820046%2C%22first_name%22%3A%22Ymx%20haxor%F0%9F%8D%85%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730348153&hash=c34c769e8c32743e4fd50d79a35ae46874d3a0d2dd025364b2bf3bfa1f8560e5',
     'user-agent': 'add your custom header here ',
     'x-requested-with': 'org.telegram.messenger',
 }
 
 user_id = '5203820046'#telegram user ID
-taps = '3000000' #amount of taps
+taps = '30000' #amount of taps
 def bbq_tap():
     data = {
         'id_user':user_id,
