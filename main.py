@@ -15024,3 +15024,15123 @@ def bbq_tap():
     response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
     print(response.json())
 bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
+def bbq_tap():
+    data = {
+        'id_user':user_id,
+        'mm': taps ,
+        'game': encode_event(user_id,taps),
+    }
+    response = requests.post('https://bbqbackcs.bbqcoin.ai/api/coin/earnmoney', headers=headers, data=data)
+    print(response.json())
+bbq_tap()
